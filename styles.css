@@ -2,5 +2,27 @@
     color: green;
     font-size: 60px;
     background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
+}
+.header {
+    background-color: grey;
+}
+.foto{
+    width: 1300px;
+    height: 900px;
+
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.ig{
+    display: flex;
+    justify-content: left;
+    align-items: center;
 }
